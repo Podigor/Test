@@ -1,1 +1,2 @@
 The file is changed in feature1
+The file is changed in feature2
