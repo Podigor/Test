@@ -6,3 +6,4 @@ New line is added. Updated in Eclipse
 New line is added. Updated in Inellij
 Line to be deleted
 Some useful line
+commit A
