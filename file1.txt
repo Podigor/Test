@@ -3,3 +3,4 @@ The file is changed in feature2
 The file is changed in feature3 edited locally. Some new changes locally
 The file is changed in feature3 edited on GitHub again
 New line is added. Updated in Eclipse
+New line is added. Updated in Inellij
